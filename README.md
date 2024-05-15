@@ -4,6 +4,9 @@
 
 Sistema software dedicato a supportare l'operato dei logopedisti nella somministrazione e monitoraggio delle terapie. Questo sistema permette al logopedista di creare e monitorare terapie personalizzate per gli utenti, mentre consente ai caregiver di prenotare sedute e monitorare lo stato di avanzamento degli utenti assistiti. Gli utenti possono accedere alla piattaforma per svolgere gli esercizi assegnati e ricevere indicazioni dal logopedista, con l'incentivo di ricevere ricompense per il completamento degli esercizi.
 
+### Design pattern utilizzati
+- **Model View Controller (MVC)**
+
 ### Caratteristiche Principali
 
 - Gestione personalizzata delle terapie per gli utenti
